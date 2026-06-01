@@ -18,7 +18,7 @@ Swiggy lacks a centralized view of sales performance across states, cities, and 
 - Low-revenue states: Goa, Meghalaya, Himachal, J&K – expansion opportunity
 
 
-# Summery
+# Summary (Dashboard and Python Visuals)
 
 - Quarterly Performance: Q1 ₹19.66M (73K orders), Q2 ₹19.90M (74K orders), Q3 ₹13.44M (50K orders)
 - Monthly Revenue Trend: Peak mid-year, sharp drop in later months
