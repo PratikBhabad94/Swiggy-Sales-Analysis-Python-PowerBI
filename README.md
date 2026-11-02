@@ -8,7 +8,7 @@ Swiggy lacks a centralized view of sales performance across cities, and time per
 # Key-takeways
 
 - Total Sales: ₹53M | Total Orders: 197K | Avg Order Value: ₹268 | Avg Rating: 4.3
-- Top 5 Cities: Bengaluru, Hyderabad, Mumbai, New Delhi, Lucknow.
+- Top 5 Cities: Bengaluru, Lucknow, Hyderabad, Mumbai, New Delhi.
 - Q3 sales dropped 32% vs Q2 (₹19.9M → ₹13.4M) – critical decline
 - Weekend revenue (Sat+Sun) is 34% higher than weekdays
 - Non-Veg contributes 68% of total revenue (Veg 32%)
